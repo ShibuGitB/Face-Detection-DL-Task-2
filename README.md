@@ -1,1 +1,1 @@
-Face Detection Open CV
+Face Detection OpenCV - Deep Learning
