@@ -1,1 +1,1 @@
-# Face-Detection-DL-Task-2
+# Face-Detection-Open CV-Task-2
